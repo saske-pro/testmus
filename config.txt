@@ -1,6 +1,6 @@
 owner=468836034185265162
 prefix=1
-game=!KD| 1play
+game=1play
 stayinchannel=Triooo
 songinstatus=false
 token=NTU2OTAwNzU4ODc3MTEwMjcz.D3pxuw.lpqwDlLqkJX7pn0SjXIweo7dInM
