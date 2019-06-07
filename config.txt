@@ -1,4 +1,4 @@
-owner=522221225934716931
+owner=468836034185265162
 prefix=1
 game=1play
 stayinchannel=Triooo
